@@ -1,0 +1,67 @@
+
+.navbar {
+	
+	margin-bottom: 0px;
+	
+}
+
+.navbar-toggle.navbar-left {
+	
+	margin-left: 10px;
+	
+}
+
+#navbar-socials {
+	
+	font-size: 1.5em;
+	margin-top: 10px;
+	margin-right: 10px;
+	
+}
+
+#navbar-socials a {
+	
+	margin-left: 12px;
+	
+}
+
+.page-header {
+	
+	margin-top: 0px;
+	
+}
+
+.jumbotron {
+	
+	background-image: url("../images/bgyb.png");
+	padding-bottom: 0;
+		
+}
+
+.logo-area {
+	
+	color: #fff;
+	font-family: Ubuntu;
+	text-shadow: 0.06em 0.06em #000;
+	text-align: center;
+	
+	
+}
+
+.slogan {
+	
+	font-family: VT323;
+	color: #fff;
+	background-color: #222;
+	margin: 0px;
+	width: 100%;
+	
+}
+
+.slogan-text {
+
+	padding: 1%;
+	
+}
+
+
