@@ -68,7 +68,7 @@
 
 	.textbox {
 	
-		font-size: 72%;
+		font-size: 85%;
 	
 	}
 	
@@ -115,13 +115,7 @@
 	border-style: outset;
     border-width: medium;
 	box-shadow: 10px 10px 5px #888;
-	
-
-}
-
-.textbox .row {
-
-	margin: 4px;
+	margin-bottom: 20px;
 
 }
 
@@ -132,12 +126,6 @@
 	border-style: inset;
 	border-width: medium;
 	
-}
-
-.textbox .media-object {
-
-	
-
 }
 
 .textbox .media-body {
