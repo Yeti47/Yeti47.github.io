@@ -65,6 +65,12 @@
 	
 }
 
+.textbox .media-left .textbox-name {
+	
+	text-align: center;
+	
+}
+
 @media(max-width:767px){
 
 	.textbox {
@@ -73,13 +79,78 @@
 	
 	}
 	
-	.textbox .media-middle img {
+	.textbox .face{
 	
 		width: 130px;
 	
 	}
-
+	
+	.textbox .media-left .textbox-name {
+	
+		display: none;
+	
+	}
+	
 }
+
+@media(max-width:470px){
+
+	.textbox .media-middle {
+	
+		float: left;
+	
+	}
+	
+	.textbox .media-body .textbox-name {
+	
+		display: none;
+	
+	}
+	
+	.textbox .media-left .textbox-name {
+	
+		display: block;
+		padding-top: 10px;
+		font-size: 180%;
+	
+	}
+	
+}
+
+@media(max-width:340px){
+
+	.textbox .media-body {
+	
+		clear: both;
+		display: block;
+		width: auto;
+	
+	}
+	
+	.textbox .media-left {
+	
+		display: inline-block;
+		margin: 0 25%;
+		padding: 0;
+	
+	}
+	
+	.textbox .face {
+	
+		display: inline-block;
+		margin: auto;
+		width: 100%;
+	
+	}
+	
+	.textbox {
+	
+		font-size: 95%;
+	
+	}
+		
+}
+
 @media(min-width:768px){
 
 	.textbox {
@@ -120,7 +191,7 @@
 
 }
 
-.textbox .media-middle img {
+.textbox .face{
 
 	background-color: #C0C0C0;
 	border-color: #ccc;
