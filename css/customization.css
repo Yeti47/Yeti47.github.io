@@ -158,6 +158,12 @@
 		font-size: 110%;
 	
 	}
+	
+	.textbox .media-body .textbox-name {
+	
+		display: none;
+	
+	}
 
 }
 @media(min-width:992px){
